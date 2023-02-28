@@ -26,3 +26,33 @@
 /* .sb__game-over--hidden {
   display: none;
 } */
+
+
+
+.wgs {
+  position: relative;
+  display:inline-block;
+  height: 482px;
+  width: 640px;
+  overflow: hidden;
+  
+}
+
+
+.wgs__mole-head {
+  position:absolute ;
+  left: 109px;
+
+
+
+}
+
+.wgs__mole-hill {
+  position: absolute;
+  top: 269px;
+  
+}
+
+#wgs__mole-head--hidden {
+  margin-top: 482px;
+}
